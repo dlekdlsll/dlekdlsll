@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Crawling and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 👍 My workspace : Jupyter notebook or Colab
+- 👍 My workspace : Jupyter notebook or Colab or Atom
 
 <!---
 dlekdlsll/dlekdlsll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
