@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Crawling and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 👍 My workspace : Jupyter notebook or Colab or Atom
+- 👍 My workspace : Jupyter notebook or Colab
 - 😍 I love my new laptop! However, I also love my old laptop.
 
 <!---
