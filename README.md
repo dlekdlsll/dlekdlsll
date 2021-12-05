@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dlekdlsll.
 - 👀 I’m interested in Data science and NLP and Computer Vision.
-- 🌱 I’m currently learning Web Crawling and Machine Learning.
+- 🌱 I’m currently learning CS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 👍 My workspace : Jupyter notebook or Colab
