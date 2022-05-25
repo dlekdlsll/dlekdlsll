@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dlekdlsll.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning JAVA WEB.
 - 📫 How to reach me ...
 
 <!---
