@@ -19,6 +19,7 @@
 <!-- ![dlekdlsll's github stats](https://github-readme-stats.vercel.app/api?username=dlekdlsll&theme=buefy&show_icons=true) -->
   
 <a href="https://github.com/dlekdlsll"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dlekdlsll&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/dlekdlsll"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlekdlsll&layout=compact&theme=buefy&hide_border=true" /></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlekdlsll&count_bg=%23E19491&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
