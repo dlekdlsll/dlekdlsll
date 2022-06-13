@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffd7d5&height=300&section=header&text=hello!%20&fontSize=90)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center>
+<h1>📚 STACKS</h1>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
 ![dlekdlsll's github stats](https://github-readme-stats.vercel.app/api?username=dlekdlsll&theme=buefy&show_icons=true)
