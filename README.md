@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @dlekdlsll.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA WEB.
-- 📫 How to reach me ...
-
-<!---
-dlekdlsll/dlekdlsll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ffd7d5&height=300&section=header&text=hello!%20&fontSize=90)
