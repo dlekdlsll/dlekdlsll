@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Studying...!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Studying...!&fontSize=90)
 
 <h1>📚 STACKS 📚</h1>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
