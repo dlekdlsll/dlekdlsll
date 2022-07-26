@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Studying...!&fontSize=50)
 
-안녕하세요. 웹개발을 공부하고 있는 이다인입니다.<br>
-
 <h3>📚 STACKS 📚</h3>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=ava&logoColor=white"> <!-- 자바 이미지 사라짐...ㅠ-->
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><!-- 자바 이미지 사라짐...ㅠ-->
