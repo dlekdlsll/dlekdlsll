@@ -1,7 +1,7 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Studying...!&fontSize=50)
-<!-- 안녕하세요 웹개발을 공부하는 이다인입니다. 글씨를 고치고싶은데... -->
+<!-- 안녕하세요 웹개발을 공부하는 이다인입니다. 글씨를 고치고싶은데... 여기에다 포트폴리오는 못하나..? -->
 
 <h3>📚 STACKS 📚</h3>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=ava&logoColor=white"> <!-- 자바 이미지 사라짐...ㅠ-->
