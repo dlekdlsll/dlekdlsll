@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Studying...!&fontSize=50)
 
 <h3>📚 STACKS 📚</h3>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=ava&logoColor=white"> <!-- 자바 이미지 사라짐...ㅠ-->
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=ava&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br>
   
